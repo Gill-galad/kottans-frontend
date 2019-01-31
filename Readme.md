@@ -1,2 +1,1 @@
-##Lets get it started
-Git - Done
+# Lets get it started
